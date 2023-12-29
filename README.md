@@ -11,7 +11,8 @@ Hi, I'm lucas, a web developer passionate about creating great user experiences.
 
 ## Compétences principales
 - **Langages de programmation :**
-  - ![JavaScript]([![image](https://github.com/neyzare/read-me/assets/109983765/02891660-1bcb-476b-b722-e1eba74bbdab](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg))
+  - ![JavaScript![image](https://github.com/neyzare/read-me/assets/109983765/5ae524ff-1709-4811-bcf9-c31bf15ef989)
+
 ) JavaScript (Node.js, React.js)
   - ![HTML](lien_vers_logo_html.png) HTML
   - ![CSS](lien_vers_logo_css.png) CSS
