@@ -3,6 +3,8 @@
 
 ## About me
 Hi, I'm lucas, a web developer passionate about creating great user experiences. My expertise covers both front-end and back-end development, allowing me to create robust and responsive web applications.
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=I+am+a+full+stack+developer;I+am+passionate+about+IT+development)](https://git.io/typing-svg)
 
 ![profile photo](lien_vers_votre_photo.jpg)
