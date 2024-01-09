@@ -1,62 +1,25 @@
-# read-me
-   # Welcome to lucas profile
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">A passionate Full-Stack Developer from France</h3>
 
-## About me
-Hi, I'm lucas, a web developer passionate about creating great user experiences. My expertise covers both front-end and back-end development, allowing me to create robust and responsive web applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neyzare&label=Profile%20views&color=0e75b6&style=flat" alt="neyzare" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neyzare" alt="neyzare" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=I+am+a+full+stack+developer;I+am+passionate+about+IT+development)](https://git.io/typing-svg)
+- 🌱 I’m currently learning **engeneering software develep**
 
-![profile photo](lien_vers_votre_photo.jpg)
+- 📫 How to reach me **https://www.linkedin.com/in/lucas-narguet-826458294/**
 
-## Compétences principales
-- **Langages de programmation :**
-  - ![JavaScript(https://github.com/neyzare/read-me/assets/109983765/5ae524ff-1709-4811-bcf9-c31bf15ef989)
+- ⚡ Fun fact **i love Judo and Gym**
 
-) JavaScript (Node.js, React.js)
-  - ![HTML](lien_vers_logo_html.png) HTML
-  - ![CSS](lien_vers_logo_css.png) CSS
-  - ![Python](lien_vers_logo_python.png) Python
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **Bases de données :**
-  - ![MongoDB](lien_vers_logo_mongodb.png) MongoDB
-  - ![MySQL](lien_vers_logo_mysql.png) MySQL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- **Frameworks :**
-  - ![Express.js](lien_vers_logo_express.png) Express.js
-  - ![Flask](lien_vers_logo_flask.png) Flask
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neyzare&show_icons=true&locale=en&layout=compact" alt="neyzare" /></p>
 
-- **Outils de gestion de version :**
-  - ![Git](lien_vers_logo_git.png) Git, GitHub
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neyzare&show_icons=true&locale=en" alt="neyzare" /></p>
 
-- **Déploiement et gestion :**
-  - ![Docker](lien_vers_logo_docker.png) Docker
-  - ![Heroku](lien_vers_logo_heroku.png) Heroku
-
-## Expérience professionnelle
-### [Nom de l'entreprise]
-#### Développeur Web Full-Stack | [Mois/Année de début] - [Mois/Année de fin]
-- Conception et développement d'applications web de A à Z.
-- Collaboration étroite avec les équipes front-end et back-end pour assurer une intégration harmonieuse.
-- Optimisation des performances des applications pour une expérience utilisateur optimale.
-
-### [Autre entreprise]
-#### Développeur Front-End | [Mois/Année de début] - [Mois/Année de fin]
-- Mise en œuvre de fonctionnalités front-end innovantes pour améliorer l'ergonomie des applications.
-- Collaboration avec les UX/UI designers pour créer des interfaces utilisateur attrayantes.
-
-## Projets notables
-### [Nom du Projet]
-![GIF du Projet](lien_vers_votre_gif.gif)
-Description brève du projet et des technologies utilisées.
-
-### [Autre Projet]
-![Image du Projet](lien_vers_votre_image.jpg)
-Description brève du projet et des technologies utilisées.
-
-## Contact
-- Adresse e-mail : [votre@email.com]
-- LinkedIn : [Votre Nom sur LinkedIn](lien_vers_votre_profil_linkedin)
-- Portfolio : [Votre Portfolio en ligne](lien_vers_votre_portfolio)
-
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets passionnants !
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neyzare&" alt="neyzare" /></p>
